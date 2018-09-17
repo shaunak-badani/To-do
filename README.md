@@ -19,5 +19,5 @@ yarn start
 
 ## Contribution
 
-If you found this repo useful, star it.
+If you found this repo useful, please star it.
 
